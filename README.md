@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project was created hastily for amusement quite some time ago, serving as my first personal endeavor in C programming (though initially intended for school). As such, it's not to be taken too seriously. The entire code follows the 42 code norm, hence the disastrous structure and file names. The code was designed for the same repetitive battle loop; therefore, it would have been vastly different if I had intended to add more Pokémon. The project utilizes MLX42.
+This project was created hastily for amusement quite some time ago, serving as my first personal endeavor in C programming (originally intended for school). As such, it's not to be taken too seriously. While the entire code follows the 42 code norm, the chaotic structure and file names are primarily a result of it being my first project and my decision to standardize the code only at the very end. The code was designed for the same repetitive battle loop; therefore, it would have been vastly different if I had intended to add more Pokémon. The project utilizes MLX42.
 
 ## Issues and Known Limitations
 
