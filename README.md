@@ -33,7 +33,7 @@ Users can create their own maps by creating a `.ber` file. In this file, they ca
 
 ## Usage
 
-After compiling with `make`, launch the game by running `./a.out <map_path>`. A default map is provided at `maps/map.ber` and can be used as an example for creating custom maps.
+After compiling with `make`, launch the game by running `./so_long <map_path>`. A default map is provided at `maps/map.ber` and can be used as an example for creating custom maps.
 
 ## Disclaimer
 
