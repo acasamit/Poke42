@@ -10,7 +10,7 @@ This project was created hastily for amusement quite some time ago, serving as m
 ## Issues and Known Limitations
 
 - One known issue is that the Team Rocket (enemies) do not move, whereas in older versions, they could move in a random direction.
-- There's a problem when the user presses enter after selecting the "object" category in a Pokémon battle.
+- There's a problem when the user presses enter after selecting the "Item" category in a Pokémon battle.
 
 ## Features
 
