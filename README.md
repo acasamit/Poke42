@@ -1,5 +1,7 @@
 # Pokémon Mini-Game in C
 
+![Game Image](https://imgur.com/C96qb1j)
+
 ## Overview
 
 This project was created hastily for amusement quite some time ago, serving as my first personal endeavor in C programming (though initially intended for school). As such, it's not to be taken too seriously. The entire code follows the 42 code norm, hence the disastrous structure and file names. The code was designed for the same repetitive battle loop; therefore, it would have been vastly different if I had intended to add more Pokémon. The project utilizes MLX42.
