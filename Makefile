@@ -1,4 +1,4 @@
-NAME	:= a.out
+NAME	:= so_long
 CFLAGS	:= -Wextra -Wall -Werror -O0 -g
 LIBMLX	:= ./lib/MLX42
 
