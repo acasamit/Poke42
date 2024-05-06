@@ -1,6 +1,7 @@
 # Pokémon Mini-Game in C
 
-![Game Image](https://imgur.com/C96qb1j)
+![Game Image](https://i.imgur.com/C96qb1j.png)
+![Game Image](https://i.imgur.com/6VikhWr.png)
 
 ## Overview
 
