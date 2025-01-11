@@ -90,7 +90,7 @@ char	*map_reader(char *map_path)
 	read_check = read(fd, buf, 1);
 	buf[1] = '\0';
 	if (!read_check)
-		ft_error();
+		(close(fd), ft_error());
 	while (read_check)
 	{
 		map = ft_strcat(map, buf);
@@ -98,5 +98,6 @@ char	*map_reader(char *map_path)
 		buf[1] = '\0';
 	}
 	free(buf);
+	close(fd);
 	return (map);
 }

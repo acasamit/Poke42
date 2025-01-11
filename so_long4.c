@@ -65,6 +65,7 @@ void	ft_load_save(t_game *game)
 	if (!map)
 	{
 		map_printer(game->map->map_path, game);
+		close(fd);
 		return ;
 	}
 	map[ft_strlen(map) - 1] = '\0';
